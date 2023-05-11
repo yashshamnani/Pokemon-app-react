@@ -26,4 +26,4 @@
 
 - **LinkedIn** - [Yash Shamnani](https://www.linkedin.com/in/yash-shamnani-a76a34203/)
 - **GMail** - [shyamnaniyash@gmail.com](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox)
-Footer
+ 
